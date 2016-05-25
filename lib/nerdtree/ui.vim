@@ -535,5 +535,5 @@ endfunction
 
 "FUNCTION: s:UI.UpDirLine() {{{1
 function! s:UI.UpDirLine()
-    return '.. (up a dir)'
+    return '..'
 endfunction
